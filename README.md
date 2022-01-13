@@ -1,5 +1,5 @@
 # easy-cop
-Personal checkout script for shopify site kith.com
+Personal checkout script for shopify site kith.com using puppeteer and node.js
 
 Currently in progress
 
@@ -7,8 +7,8 @@ Currently in progress
 Features to add:
 
 - Sneaker Monitoring on Footsites(footlocker, footaction & champs)
-- Discord Notification
-- Captcha solving
+- Proxy Mmanagement
+- Captcha Solving
 
 
 Set milestones:
