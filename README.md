@@ -9,6 +9,7 @@ Features to add:
 - Sneaker Monitoring on Footsites(footlocker, footaction & champs)
 - Proxy Mmanagement
 - Captcha Solving
+- Update to request based bot
 
 
 Set milestones:
