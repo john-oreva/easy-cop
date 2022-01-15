@@ -1,5 +1,5 @@
 # easy-cop
-Personal checkout script for shopify site kith.com using puppeteer and node.js
+Personal checkout bot for shopify site kith.com using puppeteer and node.js
 
 Currently in progress
 
